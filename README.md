@@ -12,5 +12,7 @@ Jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, Chrome DevTools.
 3. провести тестирование
 4. написать отчет о результатах тестирования
 
+## aneroidus@gmail.com
+
 ссылка на проект https://anerogodx.atlassian.net/l/cp/TFDWxgd7
 
