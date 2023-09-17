@@ -11,8 +11,6 @@
 2. подготовить тестовую документацию
 3. провести тестирование
 4. написать отчет о результатах тестирования
-
-## aneroidus@gmail.com
-
+   
 ссылка на проект https://anerogodx.atlassian.net/l/cp/TFDWxgd7
-
+## aneroidus@gmail.com - для связи.
